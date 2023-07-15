@@ -16,9 +16,9 @@ document.addEventListener("keypress", function(event) {
     makeSound(event.key);
 });
 
-// document.addEventListener("mouseover", function(event) {
-//     makeSound(event.key);
-// });
+document.addEventListener("mouseover", function(event) {
+    makeSound(event.key);
+});
 
 
 //function
